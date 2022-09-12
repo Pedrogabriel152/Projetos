@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container img {
+    min-height: 200px;
+    min-width: 200px;
+    width: 85%;
+    height: 90%;
+}
+
+.jogador{
+	float: right;
+}
